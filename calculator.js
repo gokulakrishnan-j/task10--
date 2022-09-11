@@ -418,9 +418,7 @@ input.innerHTML=i
 
 })
 
-if(input.length==3){
-    alert("This is two number calculator")
-}
+
 
 
 var ans=document.getElementById('ans')
